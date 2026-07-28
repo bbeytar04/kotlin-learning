@@ -341,7 +341,7 @@ fun main() {
 
     println("\nGünlük Gelir Hedefi: ${gunlukMaksimumGelirHedefi.toInt()} TL")
 
-    println("Sonuç:")
+    println("\nSonuç:")
 
     if (gunlukToplamGelir >= gunlukMaksimumGelirHedefi) {
         println("HEDEFE ULAŞILDI")

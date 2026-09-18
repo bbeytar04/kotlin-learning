@@ -10,3 +10,4 @@ Bu repository, Kotlin öğrenme sürecimde hazırladığım haftalık raporları
 - Hafta-4-Rapor.md
 - Hafta-5-Rapor.md
 - Hafta-6-Rapor.md
+- Hafta-7-Rapor.md
